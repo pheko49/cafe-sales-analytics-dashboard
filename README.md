@@ -12,7 +12,7 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 ## 📸 Dashboard & Visual Highlights
 
 ### 🔹 Sales Dashboard Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/90bdf7346ec6a91bf787c1f53be579a23d9b699e/Images/Screenshot%202025-10-24%20at%2001.10.04.png)
 
 ### 🔹 Payment Method Distribution
 ![Payment Method Pie Chart](images/payment_methods.png)
