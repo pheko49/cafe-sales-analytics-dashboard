@@ -17,8 +17,8 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 ### 🔹 Payment Method Distribution
 ![Payment Method Pie Chart](images/payment_methods.png)
 
-### 🔹 Monthly Sales Trends
-![Monthly Sales Line Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/64cf2407c0d56140094d8e79f72d55b612c1ab52/Images/newplot-4.png)
+### 🔹 Daily Sales Trends
+![Daily Sales Bar Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/64cf2407c0d56140094d8e79f72d55b612c1ab52/Images/newplot-4.png)
 
 ### 🔹 Location of Sales Distribution
 ![Location Pie Chart](images/monthly_sales.png)
