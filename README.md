@@ -10,6 +10,19 @@ It covers the full data analytics workflow — from **ETL** (Extract, Transform,
 
 ---
 
+## 🚧 Project Status: *Work in Progress*
+
+This dashboard is currently under active development.  
+I'm refining the **layout, interactivity, and visuals** to make it more insightful and user-friendly.
+
+Planned improvements:
+- Enhanced dashboard layout and style  
+- Additional KPIs (average transaction size, category-level trends)  
+- Integration of dynamic date filters and summary cards  
+- Option to auto-refresh or pull new data
+
+---
+
 ## 🚀 Project Overview
 
 The goal of this project is to analyze café sales data to understand:
