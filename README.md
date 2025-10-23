@@ -52,6 +52,8 @@ The final dashboard provides interactive, real-time insights for better business
 - **dash** – Dashboard creation and web app framework  
 - **Jupyter Notebook** – Data exploration and prototyping
 
+---
+
   ## 🖥️ How to Run the Dashboard
 
 If you’d like to explore or test the dashboard locally:
