@@ -93,9 +93,6 @@ The data shows that while beverages remain the café’s most consistent revenue
 
 The app will open automatically in your browser at:
 ```
-python
-```
-```
 http://127.0.0.1:8050/
 ```
 
