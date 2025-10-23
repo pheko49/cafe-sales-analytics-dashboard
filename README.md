@@ -86,8 +86,10 @@ The data shows that while beverages remain the café’s most consistent revenue
    pip install -r requirements.txt
 ```
 3.Run the dashboard
-If using Jupyter Notebook:
+- If using Jupyter Notebook:
+```
 !jupyter notebook
+```
 If using a .py Dash script:
 python app.py
 The app will open automatically in your browser at:
