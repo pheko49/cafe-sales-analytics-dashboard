@@ -50,7 +50,23 @@ The final dashboard provides interactive, real-time insights for better business
 - **pandas** – Data manipulation and analysis  
 - **plotly** – Interactive visualizations  
 - **dash** – Dashboard creation and web app framework  
-- **Jupyter Notebook** – Data exploration and prototyping  
+- **Jupyter Notebook** – Data exploration and prototyping
+
+  ## 🖥️ How to Run the Dashboard
+
+If you’d like to explore or test the dashboard locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/cafe-sales-analytics-dashboard.git
+   cd cafe-sales-analytics-dashboard
+2. Install dependencies
+   pip install -r requirements.txt
+3. Run the Dash app
+   python app/cafe_dashboard.py
+4. View the dashboard
+Once it’s running, open your browser and go to:
+👉 http://127.0.0.1:8050/
 
 ## 🚀 Next Steps
 - Add filtering and layout improvements  
