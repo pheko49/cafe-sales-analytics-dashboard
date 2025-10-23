@@ -10,9 +10,17 @@ It covers the full data analytics workflow — from **ETL** (Extract, Transform,
 
 ---
 
-## 📊 Project Overview
+## 🚀 Project Overview
 
-The goal of this project is to analyze café sales performance over time and across different product categories.  
+The goal of this project is to analyze café sales data to understand:
+- Which products drive the most revenue  
+- Sales patterns over time (daily, weekly, monthly)  
+- Payment method trends  
+- In-store vs takeaway performance  
+
+The final dashboard provides interactive, real-time insights for better business decision-making.
+
+---
 
 
 ## 📊 Current Features
