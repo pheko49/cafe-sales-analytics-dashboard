@@ -85,7 +85,7 @@ The data shows that while beverages remain the café’s most consistent revenue
 ```bash
    pip install -r requirements.txt
 ```
-3.Run the dashboard
+3. Run the dashboard
 - If using Jupyter Notebook:
 ```
 !jupyter notebook
@@ -95,12 +95,15 @@ The app will open automatically in your browser at:
 ```
 http://127.0.0.1:8050/
 ```
+---
 
 🧩 Technologies Used
 - Python (Pandas, NumPy, Plotly, Dash, matplotlib)
 - Jupyter Notebook
 - Data Cleaning and EDA (Exploratory Data Analysis)
 - Git & GitHub for version control
+  
+---
 
 🛠️ Future Improvements
 - Deploy dashboard online (using Render or Streamlit Cloud)
