@@ -87,7 +87,8 @@ The data shows that while beverages remain the café’s most consistent revenue
 ```
 3.Run the dashboard
 - If using Jupyter Notebook:
-```python
+```
+python
 !jupyter notebook
 ```
 If using a .py Dash script:
