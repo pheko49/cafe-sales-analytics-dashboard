@@ -92,19 +92,30 @@ The data shows that while beverages remain the café’s most consistent revenue
 ```
 
 The app will open automatically in your browser at:
+```
+python
+```
+```
 http://127.0.0.1:8050/
+```
 
 🧩 Technologies Used
-Python (Pandas, NumPy, hvPlot, Plotly, Dash)
-Jupyter Notebook
-Data Cleaning and EDA (Exploratory Data Analysis)
-Git & GitHub for version control
+- Python (Pandas, NumPy, Plotly, Dash, matplotlib)
+- Jupyter Notebook
+- Data Cleaning and EDA (Exploratory Data Analysis)
+- Git & GitHub for version control
 
-🧩 Technologies Used
-Python (Pandas, NumPy, hvPlot, Plotly, Dash)
-Jupyter Notebook
-Data Cleaning and EDA (Exploratory Data Analysis)
-Git & GitHub for version control
+🛠️ Future Improvements
+- Deploy dashboard online (using Render or Streamlit Cloud)
+- Add date filters and category selectors
+- Include time-based trend comparisons
+- Improve UI with custom styling and hover details
 
-📌 *Built with curiosity, caffeine, and code.*
+
+👩🏽‍💻 Author
+Pheko Mantlhasi
+Client Analyst | Data Enthusiast
+
+
+  📌 *Built with curiosity, caffeine, and code.*
 
