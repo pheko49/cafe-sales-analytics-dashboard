@@ -20,7 +20,10 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 ### 🔹 Monthly Sales Trends
 ![Monthly Sales Line Chart](images/monthly_sales.png)
 
-*(All visuals were generated dynamically using Plotly and hvPlot.)*
+### 🔹 Location of Sales Distribution
+![Location Pie Chart](images/monthly_sales.png)
+
+*(All visuals were generated dynamically using Plotly and matplotlib.)*
 
 ---
 
