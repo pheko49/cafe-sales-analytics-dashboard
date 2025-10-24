@@ -27,6 +27,11 @@ Columns Overview
 | **Payment Method**   | How the customer paid — e.g., **Cash**, **Card**, or **Mobile Payment**.                     |
 | **Location**         | Indicates where the purchase occurred: **In Store** (dine-in) or **Takeaway** (to-go order). |
 
+Snippet of dataset:
+
+### 🧾 Dataset
+![Dataset](images/payment_methods.png)
+
 ---
 
 🧩 Dataset Purpose
@@ -43,7 +48,7 @@ The EDA process involved:
 - Handling missing values
 - Aggregating data by week and category
 - Creating summary statistics using Pandas
-- Generating initial visualizations (bar, line, and pie charts)
+- Generating initial visualizations (bar, and pie charts)
 
 Example EDA operations:
 ```
