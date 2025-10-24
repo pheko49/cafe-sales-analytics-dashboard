@@ -30,7 +30,7 @@ Columns Overview
 Snippet of dataset:
 
 ### 🧾 Dataset
-![Dataset](images/payment_methods.png)
+![Dataset](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/main/Images/Screenshot%202025-10-24%20at%2004.13.49.png)
 
 ---
 
