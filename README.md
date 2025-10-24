@@ -38,6 +38,22 @@ Columns Overview
 It forms the foundation for building an interactive dashboard using Plotly and Dash, enabling dynamic exploration of café sales insights.
 
 ---
+The EDA process involved:
+- Cleaning and formatting date columns
+- Handling missing values
+- Aggregating data by week and category
+- Creating summary statistics using Pandas
+- Generating initial visualizations (bar, line, and pie charts)
+
+Example EDA operations:
+```
+df.info()
+df.describe()
+df['Location'].value_counts()
+
+```
+
+---
 🧾 Dataset Description
 
 The dataset contains transaction-level data from a café’s point-of-sale system.
