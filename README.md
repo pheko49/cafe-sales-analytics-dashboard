@@ -21,7 +21,7 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 ![Daily Sales Bar Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/main/Images/Screenshot%202025-10-24%20at%2001.22.27.png)
 
 ### 🔹 Location of Sales Distribution
-![Location Pie Chart](images/monthly_sales.png)
+![Location Pie Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/8f85c4bb79bcce59128022445ed39344e30cfd1c/Images/newplot-6.png)
 
 *(All visuals were generated dynamically using Plotly and matplotlib.)*
 
