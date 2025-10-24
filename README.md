@@ -27,7 +27,15 @@ Columns Overview
 | **Payment Method**   | How the customer paid — e.g., **Cash**, **Card**, or **Mobile Payment**.                     |
 | **Location**         | Indicates where the purchase occurred: **In Store** (dine-in) or **Takeaway** (to-go order). |
 
+---
 
+🧩 Dataset Purpose
+- This dataset supports the analysis of:
+- Total revenue trends over time
+- Sales performance by product and order type
+- Customer payment preferences
+- The balance between takeaway and in-store purchases
+It forms the foundation for building an interactive dashboard using Plotly and Dash, enabling dynamic exploration of café sales insights.
 
 ---
 🧾 Dataset Description
