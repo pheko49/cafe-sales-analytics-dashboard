@@ -16,7 +16,20 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 - Jupyter Notebook (for EDA and prototyping)
 - Git & GitHub (for version control and sharing)
 ---
+Columns Overview
+| Column Name        | Description                                                                                           |
+| ------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Date**           | The date of each transaction. Used for time-based analysis such as weekly or monthly trends.          |
+| **Product**        | The specific item sold (e.g., Coffee, Muffin, Sandwich).                                              |
+| **Category**       | The general product category (e.g., Beverage, Food).                                                  |
+| **Sales**          | The total revenue generated per transaction or record.                                                |
+| **Quantity**       | Number of units sold in the transaction.                                                              |
+| **Payment Method** | The payment type used (e.g., Cash, Card, Mobile).                                                     |
+| **Location**       | Indicates the service type: **In Store** (customer dines in) or **Takeaway** (customer orders to go). |
+| **Week**           | Week number or label derived from the transaction date for time-based grouping.                       |
 
+
+---
 🧾 Dataset Description
 
 The dataset contains transaction-level data from a café’s point-of-sale system.
