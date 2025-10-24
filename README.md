@@ -53,7 +53,7 @@ The data shows that while beverages remain the café’s most consistent revenue
 - Most purchases occur **in-store**, with **takeaway sales** showing room for growth through online ordering or delivery options.
 
 ### 📍 Location Insights
-- Sales are evenly distributed across both store locations, with each contributing approximately 50% of total sales. 
+- Analysis of sales by order type shows a 50/50 split between Takeaway and In-Store purchases. This highlights that customer demand is equally strong across both service channels, suggesting flexibility in how customers engage with the café.
 
 ---
 
