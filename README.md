@@ -10,12 +10,11 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 
 
 🧰 Tools and Technologies Used
-Python (Pandas, NumPy)
-Plotly (for interactive charts)
-Dash (for dashboard creation)
-Jupyter Notebook (for EDA and prototyping)
-VS Code / PyCharm (for development)
-Git & GitHub (for version control and sharing)
+- Python (Pandas, NumPy)
+- Plotly (for interactive charts)
+- Dash (for dashboard creation)
+- Jupyter Notebook (for EDA and prototyping)
+- Git & GitHub (for version control and sharing)
 ---
 
 🧾 Dataset Description
