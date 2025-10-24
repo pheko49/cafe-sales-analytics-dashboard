@@ -15,7 +15,7 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 ![Dashboard Screenshot](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/main/Images/Screenshot%202025-10-24%20at%2001.17.05.png)
 
 ### 🔹 Payment Method Distribution
-![Payment Method Pie Chart](images/payment_methods.png)
+![Payment Method Pie Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/6640fd993cd29d41045ff73656667268015a0f30/Images/newplot-7.png)
 
 ### 🔹 Daily Sales Trends
 ![Daily Sales Bar Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/main/Images/Screenshot%202025-10-24%20at%2001.22.27.png)
