@@ -169,8 +169,8 @@ http://127.0.0.1:8050/
 - Improve UI with custom styling and hover details
 
 
-👩🏽‍💻 Author
-Pheko Mantlhasi
+👩🏽‍💻 Author  
+Pheko Mantlhasi  
 Client Analyst | Data Enthusiast
 
 
