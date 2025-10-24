@@ -7,7 +7,21 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 > ⚙️ *Note: The dashboard is currently a work in progress.*  
 > Further development will include enhanced interactivity, filtering by time range, and trend comparisons.
 
+
+
+🧰 Tools and Technologies Used
+Python (Pandas, NumPy)
+Plotly (for interactive charts)
+Dash (for dashboard creation)
+Jupyter Notebook (for EDA and prototyping)
+VS Code / PyCharm (for development)
+Git & GitHub (for version control and sharing)
 ---
+
+🧾 Dataset Description
+
+The dataset contains transaction-level data from a café’s point-of-sale system.
+It provides detailed information on sales, product types, customer order types, and payment methods.
 
 ## 📸 Dashboard & Visual Highlights
 
