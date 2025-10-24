@@ -17,16 +17,16 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 - Git & GitHub (for version control and sharing)
 ---
 Columns Overview
-| Column Name        | Description                                                                                           |
-| ------------------ | ----------------------------------------------------------------------------------------------------- |
-| **Date**           | The date of each transaction. Used for time-based analysis such as weekly or monthly trends.          |
-| **Product**        | The specific item sold (e.g., Coffee, Muffin, Sandwich).                                              |
-| **Category**       | The general product category (e.g., Beverage, Food).                                                  |
-| **Sales**          | The total revenue generated per transaction or record.                                                |
-| **Quantity**       | Number of units sold in the transaction.                                                              |
-| **Payment Method** | The payment type used (e.g., Cash, Card, Mobile).                                                     |
-| **Location**       | Indicates the service type: **In Store** (customer dines in) or **Takeaway** (customer orders to go). |
-| **Week**           | Week number or label derived from the transaction date for time-based grouping.                       |
+| Column Name          | Description                                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------- |
+| **Item**             | The name of the product sold (e.g., Coffee, Muffin, Sandwich).                               |
+| **Quantity**         | The number of units of each item sold in a single transaction.                               |
+| **Price per Unit**   | The price of one unit of the item at the time of sale.                                       |
+| **Transaction Date** | The date the purchase was made; used for time-based analysis.                                |
+| **Total Spent**      | The total amount paid for the transaction (`Quantity × Price per Unit`).                     |
+| **Payment Method**   | How the customer paid — e.g., **Cash**, **Card**, or **Mobile Payment**.                     |
+| **Location**         | Indicates where the purchase occurred: **In Store** (dine-in) or **Takeaway** (to-go order). |
+
 
 
 ---
