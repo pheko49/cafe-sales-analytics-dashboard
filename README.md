@@ -16,7 +16,7 @@ The analysis includes data preparation, exploratory data analysis (EDA), and the
 - Jupyter Notebook (for EDA and prototyping)
 - Git & GitHub (for version control and sharing)
 ---
-Columns Overview
+📊 Columns Overview
 | Column Name          | Description                                                                                  |
 | -------------------- | -------------------------------------------------------------------------------------------- |
 | **Item**             | The name of the product sold (e.g., Coffee, Muffin, Sandwich).                               |
