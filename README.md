@@ -81,6 +81,9 @@ It provides detailed information on sales, product types, customer order types, 
 ### 🔹 Location of Sales Distribution
 ![Location Pie Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/8f85c4bb79bcce59128022445ed39344e30cfd1c/Images/newplot-6.png)
 
+### 🔹 Quantity of Items Sold
+![Quantity Sold Bar Chart]()
+
 *(All visuals were generated dynamically using Plotly and matplotlib.)*
 
 ---
