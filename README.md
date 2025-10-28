@@ -39,6 +39,7 @@ Snippet of dataset:
   This dataset supports the analysis of:
 - Total revenue trends over time
 - Sales performance by product and order type
+- Identify top-performing products by examining the total quantity sold per item using a bar chart.
 - Customer payment preferences
 - The balance between takeaway and in-store purchases
 It forms the foundation for building an interactive dashboard using Plotly and Dash, enabling dynamic exploration of café sales insights.
