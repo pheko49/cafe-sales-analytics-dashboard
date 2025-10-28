@@ -100,7 +100,7 @@ The data shows that while beverages remain the café’s most consistent revenue
 ## 🔎 Insights Deep Dive
 
 ### ☕ Product Insights
-- **Top-performing items:** Coffee, Sandwiches, and Smoothies contribute most to total revenue.  
+- **Top-performing items:** Salad, Sandwiches, and Smoothies contribute most to total revenue.  
 - **Lower-performing items:** Cookies and Cakes show moderate but stable sales trends.  
 - Seasonal variation appears in beverage sales, with slight increases during warmer months.
 
