@@ -99,7 +99,7 @@ It provides detailed information on sales, product types, customer order types, 
 The café’s sales data was analyzed to understand customer spending habits, product performance, and payment preferences across multiple locations and time periods.  
 Findings reveal consistent sales across product categories, steady monthly growth, and a balanced distribution of payment methods.  
 
-The data shows that while beverages remain the café’s most consistent revenue drivers, other items such as sandwiches and baked goods also contribute significantly, indicating a well-rounded product mix.
+The data shows that food items such as salads, sandwiches, and smoothies are the café’s leading revenue drivers, with beverages like coffee and tea contributing moderately. This indicates that while drinks remain important, the café’s primary revenue strength lies in its diverse food offerings.
 
 ---
 
