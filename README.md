@@ -35,7 +35,7 @@ Snippet of dataset:
 ---
 
 🧩 Dataset Purpose
-- This dataset supports the analysis of:
+  This dataset supports the analysis of:
 - Total revenue trends over time
 - Sales performance by product and order type
 - Customer payment preferences
