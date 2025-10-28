@@ -44,6 +44,7 @@ Snippet of dataset:
 - The balance between takeaway and in-store purchases
   
 It forms the foundation for building an interactive dashboard using Plotly and Dash, enabling dynamic exploration of café sales insights.
+
 ---
 📁 Data Source
 - The dataset used in this project was obtained from Kaggle, an open data platform for data science projects.
