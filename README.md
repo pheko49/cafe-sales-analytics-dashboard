@@ -82,7 +82,7 @@ It provides detailed information on sales, product types, customer order types, 
 ![Location Pie Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/8f85c4bb79bcce59128022445ed39344e30cfd1c/Images/newplot-6.png)
 
 ### 🔹 Quantity of Items Sold
-![Quantity Sold Bar Chart]()
+![Quantity Sold Bar Chart](https://github.com/pheko49/cafe-sales-analytics-dashboard/blob/405f8377f2c9d46829f145c10e5178334432386c/Images/newplot-8.png)
 
 *(All visuals were generated dynamically using Plotly and matplotlib.)*
 
