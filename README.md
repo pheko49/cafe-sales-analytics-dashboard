@@ -111,7 +111,6 @@ The data shows that while beverages remain the café’s most consistent revenue
 
 ### 📅 Transaction Trends
 - Monthly sales trends show stable revenue with slight fluctuations that may reflect seasonality or promotional campaigns.  
-- Most purchases occur **in-store**, with **takeaway sales** showing room for growth through online ordering or delivery options.
 
 ### 📍 Location Insights
 - Analysis of sales by order type shows a 50/50 split between Takeaway and In-Store purchases. This highlights that customer demand is equally strong across both service channels, suggesting flexibility in how customers engage with the café.
