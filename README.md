@@ -44,7 +44,12 @@ Snippet of dataset:
 - The balance between takeaway and in-store purchases
   
 It forms the foundation for building an interactive dashboard using Plotly and Dash, enabling dynamic exploration of café sales insights.
-
+---
+📁 Data Source
+The dataset used in this project was obtained from Kaggle, an open data platform for data science projects.
+Dataset name: [Dirty Cafe Sales Dataset]
+Source: [Kaggle - Café Sales Data](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
+License: Public use for data analysis and educational purposes.
 ---
 The EDA process involved:
 - Cleaning and formatting date columns
